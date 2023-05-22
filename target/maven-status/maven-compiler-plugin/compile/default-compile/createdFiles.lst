@@ -1,1 +1,4 @@
-com/gcp/GCP/Pub/Sub/Application.class
+com/gcp/pubSub/actuator/ProducerServiceActuator.class
+com/gcp/pubSub/controller/ProducerRestController.class
+com/gcp/pubSub/gateway/OutboundChanel.class
+com/gcp/pubSub/Application.class
